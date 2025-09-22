@@ -1,5 +1,5 @@
-# Crop Health Analysis - Hackaholics
-Farm Buddy
+# Crop Health Analysis
+**Farm Buddy**
 
 ## Project Overview
 This project is a farmer-friendly web app that detects crop diseases instantly from a photo using an AI model. It provides clear prevention and treatment steps in five languages (English, Telugu, Hindi, Kannada, Tamil) and allows PDF downloads for offline use. Built as a lightweight TypeScript-based app with an AI inference backend, it helps farmers make quick, reliable decisions, reducing yield loss and unnecessary pesticide use.
@@ -27,10 +27,7 @@ This project is a farmer-friendly web app that detects crop diseases instantly f
 
 We are dedicated to advancing research and technological solutions in the field of crop health management. Our goal is to harness the power of machine learning and data analysis to help farmers diagnose crop diseases effectively and provide actionable solutions for treatment and prevention.
 
-### Team Members:
-- **Srija Chinthakunta** 
-- **Tanishka Kora** 
-- **Gowri Shankar Bingi** 
+
 
 ## How It Works
 1. **Image Upload:** Users can upload images of their crops via the web interface.
